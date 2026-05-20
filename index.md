@@ -1,3 +1,5 @@
 ---
-title: Welcome to my blog!
+dupsko: Welcome to my blog!
+ale: jaja:
+czemu to tak się
 ---
